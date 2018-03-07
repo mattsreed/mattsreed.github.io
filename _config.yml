@@ -1,6 +1,6 @@
 # main text of home
 name: Matthew Reed
-bio: A Man who travels the world eating noodles
+bio: A guy with a passion for software development
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -13,8 +13,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/resume_reed.pdf
 
 url: https://mattsreed.github.io
 # your url: http://USERNAME.github.io
@@ -55,7 +55,7 @@ email: matthew.reed096@gmail.com
 authors:
     mattreed:
         name: Matthew Reed
-        bio: A Man who travels the world eating noodles
+        bio: Guy with a passion for Software Development
         external-image: false
         picture: assets/images/profile.jpg
 
