@@ -20,11 +20,3 @@ to tackle new projects. </p>
 	<li>MySQL</li>
 	<li>Agile Methodologies: SCRUM</li>
 </ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
